@@ -10,7 +10,7 @@ public class Arrays {
 
         ArrayHelp ah = new ArrayHelp();
 
-        int[] mas3 = ah.leftUnion(mas1, mas2);  // Use case for left union
+        int[] mas3 = ah.leftUnion(mas1, mas2);  // Use case for left union.
 
         for (int i = 0; i < mas3.length; i++) {
             System.out.print(mas3[i] + " ");
