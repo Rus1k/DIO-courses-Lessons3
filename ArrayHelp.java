@@ -1,10 +1,6 @@
 package arrays;
 
-import java.lang.reflect.Array;
-import java.util.*;
 import java.util.Arrays;
-
-import static java.util.Arrays.*;
 
 /**
  * Created by ruslan on 30.06.2015.
